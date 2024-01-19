@@ -8,3 +8,4 @@
 5. create .env file #all api keys will be stored here
 6. get api key https://makersuite.google.com/app/apikey
 7. create sqlite.py file for creating insert script for sqllite db
+8. run python sqlite.py  #student.db file will be created
