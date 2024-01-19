@@ -122,8 +122,10 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.txtSqlvenv
 env/
 venv/
+txtSqlvenv/
 ENV/
 env.bak/
 venv.bak/
