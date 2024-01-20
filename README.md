@@ -9,3 +9,4 @@
 6. get api key https://makersuite.google.com/app/apikey
 7. create sqlite.py file for creating insert script for sqllite db
 8. run python sqlite.py  #student.db file will be created
+9. create sql.py file #responsible for calling llm application

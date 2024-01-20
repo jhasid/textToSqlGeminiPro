@@ -25,5 +25,9 @@ cursor.execute('''Insert into STUDENT values('Xi','ML','C')''')
 
 print("The inserted records are")
 data=cursor.execute('''Select * from STUDENT''')
-for row in data:
+for row in data: 
     print(row)
+
+# Commit your changes in the db
+connection.commit()
+connection.close()    
